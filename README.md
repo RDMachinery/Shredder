@@ -82,4 +82,4 @@ Please read these before relying on this tool for sensitive data:
 
 ## License
 
-Released under the MIT License. Feel free to add a `LICENSE` file to your repository to make this official.
+Released under the MIT License.
